@@ -9,8 +9,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Center(
         child: ContadorPage(),
-      ),
-    );
-  }
-}
+      ),//Center
+    );//MaterialApp
+  }//build
+}//MyApp
                 
